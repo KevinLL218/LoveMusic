@@ -1,2 +1,20 @@
-# LoveMusic
-use Java to create a music player
+# 实验结果      
+经历了数次游走在内心崩溃的边缘之后，终于在一个中午我想起了写过的这些代码。
+由于之前的烂代码实在是太多了，就这样吧
+
+
+
+###  实验代码以及实验工程结构
+![](src/main/java/imgs/0001.jpg)  
+
+###  程序主界面以及相关说明
+
+![](src/main/java/imgs/0002.jpg)
+
+###   一些简单的操作
+
+![](src/main/java/imgs/0003.jpg)
+
+###   下载后的资源文件存放
+
+![](src/main/java/imgs/0004.jpg)
